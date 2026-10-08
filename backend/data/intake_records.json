@@ -1,0 +1,14 @@
+[
+  {
+    "abha_id": "ABHA-1001",
+    "patient_id": "ABHA-1001",
+    "name": "Ravi Kumar",
+    "age": 68,
+    "gender": "Male",
+    "criticality": "Normal",
+    "allergies": [],
+    "conditions": [],
+    "past_prescriptions": [],
+    "medical_history": []
+  }
+]

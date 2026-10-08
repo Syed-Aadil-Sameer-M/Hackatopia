@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from .chroma_client import vector_store
+from .chroma_client import patient_store
 
 
 # ---------------------------------------------------------
@@ -77,7 +77,10 @@ for patient in patients:
         f"Gender: {gender}\n"
         f"Criticality: {criticality}\n\n"
         f"Allergies:\n"
-        + "\n".join(f"- {format_item(a)}" for a in allergies)
+        + "\n".join(
+            f"- {format_item(a)}"
+            for a in allergies
+        )
     )
 
     all_documents.append(allergy_text)
@@ -108,7 +111,10 @@ for patient in patients:
         f"Gender: {gender}\n"
         f"Criticality: {criticality}\n\n"
         f"Medical Conditions:\n"
-        + "\n".join(f"- {format_item(c)}" for c in conditions)
+        + "\n".join(
+            f"- {format_item(c)}"
+            for c in conditions
+        )
     )
 
     all_documents.append(condition_text)
@@ -192,16 +198,22 @@ for patient in patients:
 
 
 # ---------------------------------------------------------
-# Store documents in Chroma
+# Store documents in ChromaDB
+# ---------------------------------------------------------
+
+if all_documents:
+
+    patient_store.add_texts(
+        texts=all_documents,
+        metadatas=all_metadatas,
+        ids=all_ids
+    )
+
+
+# ---------------------------------------------------------
+# Summary
 # ---------------------------------------------------------
 
 print(f"Patients loaded: {len(patients)}")
 print(f"Documents created: {len(all_documents)}")
-
-vector_store.add_texts(
-    texts=all_documents,
-    metadatas=all_metadatas,
-    ids=all_ids
-)
-
 print("✅ Patient data successfully ingested into ChromaDB.")

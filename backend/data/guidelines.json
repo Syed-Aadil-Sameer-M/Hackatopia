@@ -1,0 +1,202 @@
+[
+  {
+    "guideline_id": "G001",
+    "title": "Standard Treatment Workflow for Type 2 Diabetes Mellitus",
+    "condition": "Type 2 Diabetes",
+    "category": "Diabetes",
+    "source": "National Health Mission, Ministry of Health and Family Welfare, Government of India",
+    "source_year": 2025,
+    "source_url": "https://nhm.gov.in/New-Update-2025-26/Whats-new/NCD-Medical-Officers.pdf",
+    "content": "The National Health Mission medical officer training module provides a standard treatment workflow for diabetes mellitus. It covers screening, diagnosis, patient management, monitoring and referral. Monitoring includes blood glucose, HbA1c and assessment for complications such as cardiovascular, renal, eye and foot disease. Treatment and follow-up should be individualized according to glycemic control, comorbidities, complications and clinical assessment."
+  },
+  {
+    "guideline_id": "G002",
+    "title": "Screening, Diagnosis, Assessment and Management of Primary Hypertension in Adults in India",
+    "condition": "Hypertension",
+    "category": "Cardiovascular",
+    "source": "Ministry of Health and Family Welfare, Government of India",
+    "source_year": 2016,
+    "source_url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/5191.pdf",
+    "content": "The guideline provides an Indian primary-care approach to screening, diagnosis, assessment and management of primary hypertension in adults. Management includes cardiovascular risk assessment, lifestyle modification, appropriate antihypertensive therapy, monitoring for adverse effects and assessment of target-organ damage. Follow-up should consider blood-pressure control, comorbidities, treatment adherence and complications."
+  },
+  {
+    "guideline_id": "G003",
+    "title": "Guidelines for Management of ST-Elevated Myocardial Infarction",
+    "condition": "Acute Myocardial Infarction",
+    "category": "Cardiology",
+    "source": "Ministry of Health and Family Welfare, Government of India",
+    "source_year": 2022,
+    "source_url": "https://www.mohfw.gov.in/sites/default/files/Fin%20-%20STEMI%20Guidline.pdf",
+    "content": "The Government of India STEMI guideline addresses recognition, emergency management, reperfusion strategies, referral and continuing care for patients with ST-elevated myocardial infarction. Patients with suspected acute myocardial infarction require rapid clinical assessment, ECG-based diagnosis, appropriate reperfusion consideration and timely referral to a capable cardiac facility."
+  },
+  {
+    "guideline_id": "G004",
+    "title": "Standard Treatment Guidelines for Medicine - Respiratory Diseases: Bronchial Asthma",
+    "condition": "Asthma",
+    "category": "Respiratory",
+    "source": "Ministry of Health and Family Welfare, Government of India",
+    "source_year": null,
+    "source_url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/3261.pdf",
+    "content": "The MoHFW respiratory medicine standard treatment guideline covers bronchial asthma, including clinical assessment, diagnosis, triggers, treatment and referral. Patients should be assessed for respiratory symptoms and severity, monitored for worsening wheezing or breathlessness, and managed according to clinical severity and treatment response."
+  },
+  {
+    "guideline_id": "G005",
+    "title": "Standard Treatment Guidelines for Medicine - Respiratory Diseases: COPD",
+    "condition": "Chronic Obstructive Pulmonary Disease",
+    "category": "Respiratory",
+    "source": "Ministry of Health and Family Welfare, Government of India",
+    "source_year": null,
+    "source_url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/3261.pdf",
+    "content": "The MoHFW respiratory guideline includes management of chronic obstructive pulmonary disease. Assessment should consider respiratory symptoms, disease severity, exacerbations and relevant risk factors. Patients require appropriate clinical management, monitoring of respiratory status and referral when severe or complicated disease is suspected."
+  },
+  {
+    "guideline_id": "G006",
+    "title": "Standard Treatment Guidelines for Medicine - Community Acquired Pneumonia",
+    "condition": "Pneumonia",
+    "category": "Respiratory and Infectious Diseases",
+    "source": "Ministry of Health and Family Welfare, Government of India",
+    "source_year": null,
+    "source_url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/3261.pdf",
+    "content": "The MoHFW respiratory guideline includes community-acquired bacterial pneumonia. Clinical assessment should identify respiratory symptoms and severity, determine whether outpatient or higher-level management is appropriate, and consider antimicrobial treatment according to the clinical presentation and applicable treatment guidance."
+  },
+  {
+    "guideline_id": "G007",
+    "title": "Standards and Guidelines for Tuberculosis Care in India",
+    "condition": "Tuberculosis",
+    "category": "Infectious Diseases",
+    "source": "Central Tuberculosis Division, Ministry of Health and Family Welfare, Government of India",
+    "source_year": null,
+    "source_url": "https://tbcindia.mohfw.gov.in/guidelines/",
+    "content": "India's National Tuberculosis Elimination Programme provides national guidance for tuberculosis diagnosis, treatment, prevention, drug-resistant tuberculosis and patient-centered care. TB management requires appropriate diagnostic confirmation, classification, selection of the appropriate treatment regimen, adherence support, monitoring and referral according to the national programme."
+  },
+  {
+    "guideline_id": "G008",
+    "title": "National Guidelines for Clinical Management of Dengue Fever",
+    "condition": "Dengue",
+    "category": "Vector Borne Diseases",
+    "source": "National Centre for Vector Borne Diseases Control, Ministry of Health and Family Welfare, Government of India",
+    "source_year": 2023,
+    "source_url": "https://ncvbdc.mohfw.gov.in/Doc/National%20Guidelines%20for%20Clinical%20Management%20of%20Dengue%20Fever%202023.pdf",
+    "content": "The national dengue guideline provides guidance for clinical classification, assessment, monitoring and management of dengue fever. Patients should be assessed for warning signs and severity, monitored for clinical deterioration and managed with appropriate fluid and supportive strategies. Severe disease and warning signs require timely escalation and referral."
+  },
+  {
+    "guideline_id": "G009",
+    "title": "Diagnosis and Treatment of Malaria in India",
+    "condition": "Malaria",
+    "category": "Vector Borne Diseases",
+    "source": "National Vector Borne Disease Control Programme, Government of India",
+    "source_year": null,
+    "source_url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/892.pdf",
+    "content": "The national malaria guideline provides an approach to diagnosis and treatment of malaria in India. Management depends on confirmation of malaria and identification of the infecting species and clinical severity. Patients with severe symptoms require urgent referral and treatment at an appropriate health facility."
+  },
+  {
+    "guideline_id": "G010",
+    "title": "National Treatment Guidelines for Antimicrobial Use in Infectious Disease Syndromes - Acute Gastroenteritis",
+    "condition": "Acute Diarrheal Disease",
+    "category": "Gastrointestinal and Infectious Diseases",
+    "source": "National Centre for Disease Control and Indian Council of Medical Research, Ministry of Health and Family Welfare, Government of India",
+    "source_year": 2025,
+    "source_url": "https://ncdc.mohfw.gov.in/wp-content/uploads/2025/08/NTG-Version-31st-July-final.pdf",
+    "content": "The national antimicrobial-use guideline includes acute gastroenteritis and acute diarrheal syndromes. Assessment should focus on clinical severity, dehydration, warning signs and likely infectious causes. Antimicrobial therapy should not be used indiscriminately and should be based on the clinical syndrome and appropriate national treatment recommendations."
+  },
+  {
+    "guideline_id": "G011",
+    "title": "Standard Treatment Workflow for Chronic Kidney Disease",
+    "condition": "Chronic Kidney Disease",
+    "category": "Nephrology",
+    "source": "Indian Council of Medical Research, Department of Health Research, Government of India",
+    "source_year": null,
+    "source_url": "https://www.icmr.gov.in/standard-treatment-workflows-stws",
+    "content": "The ICMR Standard Treatment Workflow for chronic kidney disease provides a structured approach to assessment and management. Evaluation should consider kidney function, associated conditions, complications and progression risk. Patients require appropriate monitoring and referral based on disease severity, complications and renal function."
+  },
+  {
+    "guideline_id": "G012",
+    "title": "Standard Treatment Workflow for Stroke",
+    "condition": "Stroke",
+    "category": "Neurology",
+    "source": "Indian Council of Medical Research, Department of Health Research, Government of India",
+    "source_year": null,
+    "source_url": "https://www.icmr.gov.in/standard-treatment-workflows-stws",
+    "content": "The ICMR stroke workflow addresses assessment and management of patients presenting with stroke. Rapid recognition, neurological assessment, appropriate imaging and timely management are essential. Patients should be evaluated for stroke type, severity, complications and eligibility for appropriate acute interventions and rehabilitation."
+  },
+  {
+    "guideline_id": "G013",
+    "title": "Guidelines for Management of Epilepsy in India",
+    "condition": "Epilepsy",
+    "category": "Neurology",
+    "source": "Ministry of Health and Family Welfare, Government of India",
+    "source_year": null,
+    "source_url": "https://clinicalestablishments.mohfw.gov.in/en/standard-treatment-guidelines",
+    "content": "The MoHFW epilepsy guideline provides guidance for assessment and management of epilepsy. Evaluation should establish the nature of seizures, identify possible causes and assess relevant investigations. Treatment should be individualized according to seizure type, patient characteristics, treatment response and adverse effects, with appropriate follow-up."
+  },
+  {
+    "guideline_id": "G014",
+    "title": "Anemia Mukt Bharat Operational Guidelines",
+    "condition": "Anemia",
+    "category": "Hematology and Public Health",
+    "source": "National Health Mission, Ministry of Health and Family Welfare, Government of India",
+    "source_year": 2026,
+    "source_url": "https://nhm.gov.in/index1.php/nhm_live/index1.php?lang=1&level=4&lid=804&sublinkid=1455",
+    "content": "The Anemia Mukt Bharat programme provides national guidance for prevention, screening, diagnosis and management of anemia across priority population groups. The programme emphasizes screening, iron and folic acid interventions, identification of causes and appropriate referral and follow-up."
+  },
+  {
+    "guideline_id": "G015",
+    "title": "Standard Treatment Guidelines - Hypothyroidism",
+    "condition": "Hypothyroidism",
+    "category": "Endocrinology",
+    "source": "Ministry of Health and Family Welfare, Government of India",
+    "source_year": null,
+    "source_url": "https://www.clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/3601.pdf",
+    "content": "The MoHFW hypothyroidism guideline covers screening of high-risk groups, clinical presentation, diagnosis and management. Primary hypothyroidism is assessed using thyroid function testing. Treatment generally involves thyroid hormone replacement with dose adjustment and periodic monitoring of thyroid function, while special populations and comorbidities require individualized management."
+  },
+  {
+    "guideline_id": "G016",
+    "title": "Prevention and Management of Dyslipidemia",
+    "condition": "Hyperlipidemia / Dyslipidemia",
+    "category": "Cardiovascular Risk",
+    "source": "Ministry of Health and Family Welfare, Government of India",
+    "source_year": null,
+    "source_url": "https://www.clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/58.pdf",
+    "content": "The MoHFW NPCDCS medical officer manual addresses prevention and management of dyslipidemia. Assessment should consider lipid abnormalities together with overall cardiovascular risk. Management includes lifestyle measures and appropriate lipid-lowering treatment based on individual cardiovascular risk and associated conditions."
+  },
+  {
+    "guideline_id": "G017",
+    "title": "Standard Treatment Workflow for Heart Failure",
+    "condition": "Heart Failure",
+    "category": "Cardiology",
+    "source": "Indian Council of Medical Research, Department of Health Research, Government of India",
+    "source_year": null,
+    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1768823345_cardiology_1-3.pdf",
+    "content": "The ICMR Standard Treatment Workflow for heart failure provides a structured approach to evaluation and management. Assessment should identify the clinical syndrome, underlying cause, severity, congestion and relevant comorbidities. Management requires appropriate treatment, monitoring of symptoms and complications, medication adherence and escalation or referral when clinically indicated."
+  },
+  {
+    "guideline_id": "G018",
+    "title": "Management of Common Mental Disorders - Depression and Other Affective Disorders",
+    "condition": "Depression",
+    "category": "Mental Health",
+    "source": "Ministry of Health and Family Welfare, Government of India",
+    "source_year": null,
+    "source_url": "https://www.clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/606.pdf",
+    "content": "The MoHFW guideline for common mental disorders contains a dedicated section on depression and other affective disorders. Assessment should consider symptoms, severity, functional impact, associated psychiatric conditions and risk factors. Management may involve psychological and psychosocial interventions, appropriate medication and referral or escalation according to severity and risk."
+  },
+  {
+    "guideline_id": "G019",
+    "title": "National Guidelines for Diagnosis and Management of Viral Hepatitis",
+    "condition": "Chronic Liver Disease",
+    "category": "Gastroenterology and Hepatology",
+    "source": "Ministry of Health and Family Welfare, Government of India",
+    "source_year": null,
+    "source_url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/3591.pdf",
+    "content": "The national viral hepatitis guideline addresses diagnosis and management of viral hepatitis, particularly chronic hepatitis B and C and their complications. Chronic viral hepatitis may progress to cirrhosis and hepatocellular carcinoma. Clinical management includes appropriate assessment, diagnosis, treatment selection, monitoring, management of special situations and referral. This record represents the viral-hepatitis component of chronic liver disease rather than all causes of chronic liver disease."
+  },
+  {
+    "guideline_id": "G020",
+    "title": "National Treatment Guidelines for Antimicrobial Use in Infectious Disease Syndromes",
+    "condition": "Common Bacterial Infections and Antimicrobial Safety",
+    "category": "Antimicrobial Stewardship",
+    "source": "National Centre for Disease Control and Indian Council of Medical Research, Ministry of Health and Family Welfare, Government of India",
+    "source_year": 2025,
+    "source_url": "https://ncdc.mohfw.gov.in/wp-content/uploads/2025/08/NTG-Version-31st-July-final.pdf",
+    "content": "The national antimicrobial-use guideline provides syndrome-based recommendations for antimicrobial treatment of infectious diseases. It emphasizes appropriate clinical assessment, selection of antibiotics according to the infectious syndrome and likely pathogens, avoidance of unnecessary antimicrobial use, consideration of patient-specific factors and monitoring for treatment response and adverse effects. Antibiotic selection should also account for documented drug allergies and relevant antimicrobial-resistance considerations."
+  }
+]
