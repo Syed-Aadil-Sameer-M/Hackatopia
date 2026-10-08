@@ -11,6 +11,6 @@ if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY is not set")
 
 embeddings = GoogleGenerativeAIEmbeddings(
-    model="gemini-embedding-001",
+    model="gemini-embedding-2",
     google_api_key=GEMINI_API_KEY
 )
