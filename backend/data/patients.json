@@ -1,0 +1,337 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "Ravi Kumar",
+    "age": 68,
+    "gender": "Male",
+    "criticality": "Critical",
+    "allergies": ["penicillin"],
+    "conditions": [
+      "Acute Myocardial Infarction",
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "past_prescriptions": [
+      {
+        "drug": "Amoxicillin",
+        "date": "2025-11-10",
+        "outcome": "Developed severe allergic rash"
+      },
+      {
+        "drug": "Metformin",
+        "date": "2026-01-15",
+        "outcome": "Tolerated well"
+      },
+      {
+        "drug": "Aspirin",
+        "date": "2026-08-20",
+        "outcome": "Currently prescribed"
+      }
+    ],
+    "medical_history": [
+      "History of hypertension for 15 years.",
+      "Type 2 diabetes diagnosed in 2018.",
+      "Presented with severe chest pain and sweating.",
+      "ECG showed significant ischemic changes.",
+      "Recently admitted for acute myocardial infarction.",
+      "Requires urgent cardiology monitoring.",
+      "Penicillin previously caused a severe allergic rash."
+    ]
+  },
+  {
+    "patient_id": "P002",
+    "name": "Meena Sharma",
+    "age": 59,
+    "gender": "Female",
+    "criticality": "Critical",
+    "allergies": ["sulfonamides"],
+    "conditions": [
+      "Severe Pneumonia",
+      "Chronic Obstructive Pulmonary Disease",
+      "Hypoxia"
+    ],
+    "past_prescriptions": [
+      {
+        "drug": "Cotrimoxazole",
+        "date": "2025-09-12",
+        "outcome": "Developed allergic reaction"
+      },
+      {
+        "drug": "Salbutamol",
+        "date": "2026-08-18",
+        "outcome": "Improved breathing"
+      }
+    ],
+    "medical_history": [
+      "Long-standing COPD.",
+      "History of recurrent respiratory infections.",
+      "Currently hospitalized with severe pneumonia.",
+      "Oxygen saturation recently dropped below normal range.",
+      "Requires supplemental oxygen.",
+      "Frequent monitoring of respiratory status is required.",
+      "Sulfonamide antibiotics should be avoided."
+    ]
+  },
+  {
+    "patient_id": "P003",
+    "name": "Arjun Mehta",
+    "age": 61,
+    "gender": "Male",
+    "criticality": "High",
+    "allergies": ["none known"],
+    "conditions": [
+      "Coronary Artery Disease",
+      "Hyperlipidemia",
+      "Hypertension"
+    ],
+    "past_prescriptions": [
+      {
+        "drug": "Atorvastatin",
+        "date": "2026-02-20",
+        "outcome": "Tolerated well"
+      },
+      {
+        "drug": "Aspirin",
+        "date": "2026-02-20",
+        "outcome": "Tolerated well"
+      },
+      {
+        "drug": "Amlodipine",
+        "date": "2026-05-10",
+        "outcome": "Blood pressure improved"
+      }
+    ],
+    "medical_history": [
+      "Diagnosed with coronary artery disease in 2024.",
+      "History of elevated cholesterol.",
+      "Currently taking Atorvastatin.",
+      "Requires regular cardiology follow-up.",
+      "Blood pressure requires ongoing monitoring.",
+      "No known drug allergies."
+    ]
+  },
+  {
+    "patient_id": "P004",
+    "name": "Anita Rao",
+    "age": 52,
+    "gender": "Female",
+    "criticality": "High",
+    "allergies": ["ibuprofen"],
+    "conditions": [
+      "Asthma",
+      "Type 2 Diabetes",
+      "Seasonal Allergic Rhinitis"
+    ],
+    "past_prescriptions": [
+      {
+        "drug": "Ibuprofen",
+        "date": "2026-03-10",
+        "outcome": "Triggered increased wheezing"
+      },
+      {
+        "drug": "Salbutamol",
+        "date": "2026-06-12",
+        "outcome": "Symptoms improved"
+      },
+      {
+        "drug": "Metformin",
+        "date": "2026-04-01",
+        "outcome": "Tolerated well"
+      }
+    ],
+    "medical_history": [
+      "Asthma since childhood.",
+      "History of asthma exacerbations during seasonal allergies.",
+      "Ibuprofen previously caused increased wheezing.",
+      "Uses Salbutamol inhaler during exacerbations.",
+      "Type 2 diabetes is currently controlled with Metformin."
+    ]
+  },
+  {
+    "patient_id": "P005",
+    "name": "Suresh Patel",
+    "age": 47,
+    "gender": "Male",
+    "criticality": "Moderate",
+    "allergies": ["aspirin"],
+    "conditions": [
+      "Hypertension",
+      "Gastritis",
+      "High Cholesterol"
+    ],
+    "past_prescriptions": [
+      {
+        "drug": "Aspirin",
+        "date": "2025-12-20",
+        "outcome": "Caused stomach irritation"
+      },
+      {
+        "drug": "Losartan",
+        "date": "2026-02-14",
+        "outcome": "Blood pressure improved"
+      },
+      {
+        "drug": "Atorvastatin",
+        "date": "2026-02-14",
+        "outcome": "Tolerated well"
+      }
+    ],
+    "medical_history": [
+      "Hypertension diagnosed in 2020.",
+      "History of chronic gastritis.",
+      "Aspirin caused significant stomach irritation.",
+      "Currently taking Losartan for blood pressure.",
+      "Advised to monitor cholesterol levels.",
+      "Requires routine primary care follow-up."
+    ]
+  },
+  {
+    "patient_id": "P006",
+    "name": "Lakshmi Devi",
+    "age": 44,
+    "gender": "Female",
+    "criticality": "Moderate",
+    "allergies": ["none known"],
+    "conditions": [
+      "Hypothyroidism",
+      "Iron Deficiency Anemia"
+    ],
+    "past_prescriptions": [
+      {
+        "drug": "Levothyroxine",
+        "date": "2026-01-05",
+        "outcome": "Thyroid levels improved"
+      },
+      {
+        "drug": "Ferrous Sulfate",
+        "date": "2026-03-18",
+        "outcome": "Hemoglobin improved"
+      }
+    ],
+    "medical_history": [
+      "Hypothyroidism diagnosed in 2019.",
+      "Taking Levothyroxine regularly.",
+      "Recently diagnosed with iron deficiency anemia.",
+      "Previous hemoglobin levels were below normal.",
+      "Responding well to iron supplementation.",
+      "Requires periodic thyroid and hemoglobin testing."
+    ]
+  },
+  {
+    "patient_id": "P007",
+    "name": "Vikram Singh",
+    "age": 35,
+    "gender": "Male",
+    "criticality": "Moderate",
+    "allergies": ["penicillin"],
+    "conditions": [
+      "Acute Sinusitis",
+      "Allergic Rhinitis"
+    ],
+    "past_prescriptions": [
+      {
+        "drug": "Amoxicillin",
+        "date": "2024-08-11",
+        "outcome": "Developed skin rash"
+      },
+      {
+        "drug": "Cetirizine",
+        "date": "2026-04-22",
+        "outcome": "Symptoms improved"
+      }
+    ],
+    "medical_history": [
+      "Recurrent sinus infections.",
+      "History of allergic rhinitis.",
+      "Penicillin caused a skin rash in the past.",
+      "Currently experiencing sinus congestion and facial pressure.",
+      "Uses antihistamines during allergy episodes.",
+      "No history of hospitalization."
+    ]
+  },
+  {
+    "patient_id": "P008",
+    "name": "Neha Kapoor",
+    "age": 29,
+    "gender": "Female",
+    "criticality": "Low",
+    "allergies": ["none known"],
+    "conditions": [
+      "Migraine",
+      "Vitamin D Deficiency"
+    ],
+    "past_prescriptions": [
+      {
+        "drug": "Paracetamol",
+        "date": "2026-05-15",
+        "outcome": "Headache improved"
+      },
+      {
+        "drug": "Vitamin D3",
+        "date": "2026-06-01",
+        "outcome": "Tolerated well"
+      }
+    ],
+    "medical_history": [
+      "Intermittent migraine episodes for three years.",
+      "Migraines are usually triggered by lack of sleep.",
+      "No history of neurological complications.",
+      "Vitamin D deficiency identified during routine blood testing.",
+      "Responds well to conservative migraine management.",
+      "No known drug allergies."
+    ]
+  },
+  {
+    "patient_id": "P009",
+    "name": "Rahul Verma",
+    "age": 24,
+    "gender": "Male",
+    "criticality": "Low",
+    "allergies": ["none known"],
+    "conditions": [
+      "Seasonal Allergic Rhinitis"
+    ],
+    "past_prescriptions": [
+      {
+        "drug": "Cetirizine",
+        "date": "2026-04-05",
+        "outcome": "Symptoms improved"
+      }
+    ],
+    "medical_history": [
+      "Occasional seasonal allergies.",
+      "Experiences sneezing and nasal congestion during pollen season.",
+      "No chronic diseases.",
+      "No previous hospitalizations.",
+      "Symptoms are controlled with occasional antihistamine use.",
+      "Regular physical activity without limitation."
+    ]
+  },
+  {
+    "patient_id": "P010",
+    "name": "Kavya Nair",
+    "age": 21,
+    "gender": "Female",
+    "criticality": "Normal",
+    "allergies": ["none known"],
+    "conditions": [
+      "No significant medical conditions"
+    ],
+    "past_prescriptions": [
+      {
+        "drug": "Paracetamol",
+        "date": "2026-01-20",
+        "outcome": "Used for temporary fever; recovered"
+      }
+    ],
+    "medical_history": [
+      "Generally healthy individual.",
+      "No chronic medical conditions.",
+      "No history of hospitalization.",
+      "No known drug allergies.",
+      "Normal routine blood tests.",
+      "No regular medications.",
+      "Attends annual preventive health checkups."
+    ]
+  }
+]

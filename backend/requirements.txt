@@ -1,0 +1,6 @@
+chromadb==1.5.9
+langchain
+langchain-chroma
+langchain-google-genai
+python-dotenv
+HuggingFace // sentence transformers
