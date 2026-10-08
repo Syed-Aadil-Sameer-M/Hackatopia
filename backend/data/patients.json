@@ -1,0 +1,102 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "Ravi Kumar",
+    "age": 45,
+    "gender": "Male",
+    "allergies": [
+      "penicillin",
+      "aspirin"
+    ],
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "past_prescriptions": [
+      {
+        "drug": "Amoxicillin",
+        "date": "2026-06-01",
+        "outcome": "allergic rash"
+      },
+      {
+        "drug": "Metformin",
+        "date": "2026-05-15",
+        "outcome": "tolerated well"
+      },
+      {
+        "drug": "Amlodipine",
+        "date": "2026-05-15",
+        "outcome": "blood pressure improved"
+      }
+    ],
+    "medical_history": [
+      "Diagnosed with Type 2 Diabetes in 2021.",
+      "Diagnosed with hypertension in 2023.",
+      "Experienced an allergic rash after taking Amoxicillin.",
+      "Blood glucose is currently managed with Metformin."
+    ]
+  },
+  {
+    "patient_id": "P002",
+    "name": "Priya Sharma",
+    "age": 32,
+    "gender": "Female",
+    "allergies": [
+      "ibuprofen"
+    ],
+    "conditions": [
+      "Asthma",
+      "Seasonal Allergic Rhinitis"
+    ],
+    "past_prescriptions": [
+      {
+        "drug": "Ibuprofen",
+        "date": "2026-03-10",
+        "outcome": "increased wheezing"
+      },
+      {
+        "drug": "Salbutamol",
+        "date": "2026-04-12",
+        "outcome": "symptoms improved"
+      }
+    ],
+    "medical_history": [
+      "History of asthma since childhood.",
+      "Experiences seasonal allergies during spring.",
+      "Ibuprofen previously caused increased wheezing.",
+      "Uses Salbutamol inhaler during asthma exacerbations."
+    ]
+  },
+  {
+    "patient_id": "P003",
+    "name": "Arjun Mehta",
+    "age": 61,
+    "gender": "Male",
+    "allergies": [
+      "none known"
+    ],
+    "conditions": [
+      "Coronary Artery Disease",
+      "Hyperlipidemia"
+    ],
+    "past_prescriptions": [
+      {
+        "drug": "Atorvastatin",
+        "date": "2026-02-20",
+        "outcome": "tolerated well"
+      },
+      {
+        "drug": "Aspirin",
+        "date": "2026-02-20",
+        "outcome": "tolerated well"
+      }
+    ],
+    "medical_history": [
+      "Diagnosed with coronary artery disease in 2024.",
+      "History of elevated cholesterol.",
+      "Currently taking Atorvastatin.",
+      "No known drug allergies.",
+      "Requires regular cardiology follow-up."
+    ]
+  }
+]
