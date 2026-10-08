@@ -1,0 +1,281 @@
+{
+  "amoxicillin": {
+    "class": "antibiotic",
+    "allergy_group": "penicillin",
+    "interactions": ["warfarin"],
+    "demo_max_dose_mg": 1000
+  },
+  "amoxicillin_clavulanate": {
+    "class": "antibiotic",
+    "allergy_group": "penicillin",
+    "interactions": ["warfarin"]
+  },
+  "ampicillin": {
+    "class": "antibiotic",
+    "allergy_group": "penicillin",
+    "interactions": ["warfarin"]
+  },
+  "penicillin_v": {
+    "class": "antibiotic",
+    "allergy_group": "penicillin",
+    "interactions": []
+  },
+  "piperacillin_tazobactam": {
+    "class": "antibiotic",
+    "allergy_group": "penicillin",
+    "interactions": ["warfarin"]
+  },
+  "cephalexin": {
+    "class": "antibiotic",
+    "allergy_group": "cephalosporin",
+    "interactions": ["warfarin"]
+  },
+  "cefuroxime": {
+    "class": "antibiotic",
+    "allergy_group": "cephalosporin",
+    "interactions": []
+  },
+  "ceftriaxone": {
+    "class": "antibiotic",
+    "allergy_group": "cephalosporin",
+    "interactions": ["warfarin"]
+  },
+  "cefixime": {
+    "class": "antibiotic",
+    "allergy_group": "cephalosporin",
+    "interactions": ["warfarin"]
+  },
+  "cefpodoxime": {
+    "class": "antibiotic",
+    "allergy_group": "cephalosporin",
+    "interactions": []
+  },
+  "azithromycin": {
+    "class": "antibiotic",
+    "allergy_group": "macrolide",
+    "interactions": ["warfarin"]
+  },
+  "clarithromycin": {
+    "class": "antibiotic",
+    "allergy_group": "macrolide",
+    "interactions": ["warfarin"]
+  },
+  "erythromycin": {
+    "class": "antibiotic",
+    "allergy_group": "macrolide",
+    "interactions": ["warfarin"]
+  },
+  "doxycycline": {
+    "class": "antibiotic",
+    "allergy_group": "tetracycline",
+    "interactions": ["warfarin"]
+  },
+  "tetracycline": {
+    "class": "antibiotic",
+    "allergy_group": "tetracycline",
+    "interactions": []
+  },
+  "ciprofloxacin": {
+    "class": "antibiotic",
+    "allergy_group": "fluoroquinolone",
+    "interactions": ["warfarin"]
+  },
+  "levofloxacin": {
+    "class": "antibiotic",
+    "allergy_group": "fluoroquinolone",
+    "interactions": ["warfarin"]
+  },
+  "moxifloxacin": {
+    "class": "antibiotic",
+    "allergy_group": "fluoroquinolone",
+    "interactions": ["warfarin"]
+  },
+  "metronidazole": {
+    "class": "antibiotic",
+    "allergy_group": "nitroimidazole",
+    "interactions": ["warfarin"]
+  },
+  "clindamycin": {
+    "class": "antibiotic",
+    "allergy_group": "lincosamide",
+    "interactions": []
+  },
+  "paracetamol": {
+    "class": "analgesic",
+    "allergy_group": null,
+    "interactions": ["warfarin"]
+  },
+  "ibuprofen": {
+    "class": "NSAID",
+    "allergy_group": "NSAID",
+    "interactions": ["warfarin"]
+  },
+  "naproxen": {
+    "class": "NSAID",
+    "allergy_group": "NSAID",
+    "interactions": ["warfarin"]
+  },
+  "diclofenac": {
+    "class": "NSAID",
+    "allergy_group": "NSAID",
+    "interactions": ["warfarin"]
+  },
+  "aspirin": {
+    "class": "NSAID",
+    "allergy_group": "NSAID",
+    "interactions": ["warfarin"]
+  },
+  "ketorolac": {
+    "class": "NSAID",
+    "allergy_group": "NSAID",
+    "interactions": ["warfarin"]
+  },
+  "warfarin": {
+    "class": "anticoagulant",
+    "allergy_group": null,
+    "interactions": [
+      "amoxicillin",
+      "azithromycin",
+      "clarithromycin",
+      "erythromycin",
+      "doxycycline",
+      "ciprofloxacin",
+      "levofloxacin",
+      "metronidazole",
+      "ibuprofen",
+      "naproxen",
+      "diclofenac",
+      "aspirin"
+    ]
+  },
+  "apixaban": {
+    "class": "anticoagulant",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "rivaroxaban": {
+    "class": "anticoagulant",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "clopidogrel": {
+    "class": "antiplatelet",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "amlodipine": {
+    "class": "calcium_channel_blocker",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "atenolol": {
+    "class": "beta_blocker",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "metoprolol": {
+    "class": "beta_blocker",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "losartan": {
+    "class": "ARB",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "telmisartan": {
+    "class": "ARB",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "enalapril": {
+    "class": "ACE_inhibitor",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "lisinopril": {
+    "class": "ACE_inhibitor",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "hydrochlorothiazide": {
+    "class": "diuretic",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "metformin": {
+    "class": "antidiabetic",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "glimepiride": {
+    "class": "antidiabetic",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "sitagliptin": {
+    "class": "antidiabetic",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "empagliflozin": {
+    "class": "antidiabetic",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "insulin": {
+    "class": "antidiabetic",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "atorvastatin": {
+    "class": "statin",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "rosuvastatin": {
+    "class": "statin",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "simvastatin": {
+    "class": "statin",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "omeprazole": {
+    "class": "PPI",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "pantoprazole": {
+    "class": "PPI",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "famotidine": {
+    "class": "H2_blocker",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "cetirizine": {
+    "class": "antihistamine",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "loratadine": {
+    "class": "antihistamine",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "salbutamol": {
+    "class": "bronchodilator",
+    "allergy_group": null,
+    "interactions": []
+  },
+  "montelukast": {
+    "class": "leukotriene_modifier",
+    "allergy_group": null,
+    "interactions": []
+  }
+}
